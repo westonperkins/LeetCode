@@ -1,3 +1,3 @@
 # longestCommonPrefix
 
-![longestCommonPrefix](../Assets/longestCommonPrefix.png)
+![longestCommonPrefix](../Assets/LongestCommonPrefix.png)
