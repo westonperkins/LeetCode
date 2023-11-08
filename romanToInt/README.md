@@ -1,3 +1,3 @@
 # romanToInt
 
-![TwoSum](../Assets/RomanToInt.png)
+![RomanToInt](../Assets/RomanToInt.png)
